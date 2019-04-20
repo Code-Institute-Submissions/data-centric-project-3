@@ -1,0 +1,244 @@
+ @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+ 
+ /*------------------------------- home */
+ #main-header{
+    
+    background-color:#000;
+    
+}
+.nav-item a{
+    
+    color:#fff;
+    text-decoration: none;
+    padding:15px;
+    margin:10px;
+    font-size: 20px;
+    font-family: "Exo",sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.02em;
+    
+}
+
+#video {
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+
+ /*------------------------------- About */
+
+#about{
+    padding-top: 90px;
+    padding-bottom: 90px;
+   
+}
+
+#about h2{
+    text-align:center;
+    font-size: 70px;
+    font-weight:500;
+    padding:10px;
+    
+}
+
+#about .section-title{
+    font-family: "Exo",sans-serif;
+    font-size:50px;
+    padding:10px;
+    margin-top: 20px;
+
+}
+
+#about img{
+    border-radius:75%;
+    margin: 10px;
+    padding:10px;
+    -webkit-filter: grayscale(100%); 
+  filter: grayscale(100%);
+}
+ .section-intro{
+    font-family: "Exo",sans-serif;
+    font-size: 25px;
+    margin:10px;
+    padding: 10px;
+}
+.members-profile{
+    padding:10px;
+}
+.member-name{
+    text-align: center;
+    font-family:"Exo",sans-serif;
+    padding:10px;
+}
+.member-desc{
+    text-align: right;
+    font-size: 16px;
+    font-size: medium;
+    word-spacing: 0.02em;
+}
+
+ /*------------------------------- Gallery */
+ 
+ #our-gallery{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #000;
+    width:100%;
+    height:auto;
+ }
+ #our-gallery .section-heading{
+    padding-top:90px;
+    padding-bottom:80px;
+    color:#fafafa;
+    font-family:"Exo",sans-serif;
+    font-weight:500;
+    font-size:70px;
+ }
+#our-gallery img{
+    width:250px;
+    height:250px;
+    padding:20px;
+    margin:10px; 
+}
+#our-gallery .column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
+#our-gallery .column img:hover {
+  opacity: 1;
+}
+
+#our-gallery .row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#our-gallery .container {
+  position: relative;
+  
+}
+#our-gallery .closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+
+#our-gallery small{
+    font-family: "Exo",sans-serif;
+    font-size: 18px;
+    
+}
+/*------------------------------- Hits */
+#our-hits{
+ padding-top: 90px;
+    padding-bottom: 90px;
+}
+#our-hits .section-title{
+ padding-top: 90px;
+   padding-bottom: 90px;
+    text-align:center;
+    font-family: "Exo",sans-serif;
+    font-size: 50px;
+}
+#music{
+    margin:20px;
+    padding:10px;
+}
+
+ /*------------------------------- Contact */
+ 
+ #contact{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color:#000;
+ }
+ #contact h2{
+     font-family: "Exo",sans-serif;
+      padding-bottom: 30px;
+     font-size: 50px;
+     color:#fafafa;
+     text-align:center;
+ }
+ #contact h6{
+     font-family: "Roboto",sans-serif;
+     margin:20px;
+     text-align:left;
+     color:#fafafa;
+ }
+ .btn-btn-secondary{
+     margin:20px;
+ }
+ .btn-btn-secondary:hover{
+     background-color:#bada55;
+ }
+ 
+ .center-form{
+     width:75%;
+     margin:10px;
+ }
+ .form-control{
+     margin:10px;
+ }
+ 
+ 
+  /*------------------------------- footer/links */
+  
+  
+  .social-links {
+    
+        padding-bottom: 15px;
+        text-align: center;
+        float:right;
+        padding-left: 50px;
+    
+    }
+    
+    .social-links li a i {
+    
+        width: 50px;
+    
+        height: 50px;
+    
+        padding: 12px 0;
+    
+        border-radius: 50%;
+    
+        font-size: 25px;
+    
+        line-height: 15px;
+    
+        text-align: center;
+    
+        color: #fafafa;
+    
+        background: #8f8f8f;
+    
+        transition: all 0.35s ease-in-out;
+    
+        -moz-transition: all 0.35s ease-in-out;
+    
+        -webkit-transition: all 0.35s ease-in-out;
+    
+        -o-transition: all 0.35s ease-in-out;
+    
+    }
+    
+    
+    
+    .social-links li a i:hover {
+    
+        background: #e84610;
+    
+    }
+    
+    .social-links li{
+        padding:30px;
+    }
+    
+    
