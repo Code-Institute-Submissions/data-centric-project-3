@@ -104,11 +104,14 @@ The social links become vertical/ look as a triangle in smaller screen sizes.
 
 The process of deploying the project to GitHub was as follows:
 1) After successfully pushing the files to GitHub,start the deployment. 
+
 2)I went on settings and to the page section, changed the branch name to Master Branch.
+
 3) A link was operated and that was the Live URL to my website.
 
 
 Deployment: is making the website Live and accessible by anyone who opens the link provided.
+
 Development: is using Git commands to upload the file used in the making of the website to GitHub in order to be downloaded or viewed by the assesor and checked.
 
 
