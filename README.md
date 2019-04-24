@@ -109,6 +109,51 @@ The deployment allows other users to download and view the code made, whereas, t
 This means, deploying the website gives opportunity to others to get the files used on their devices and view different techniques used by the developer.
 The different branches used to deploy the files, were "Login" and "Master" branches. 
 
+To run my code locally, and ensure that it perfectly works, the user should download the source files used along with the HTML code and run it on their device.
+
+# Credits:
+
+# content:
+
+1) The content on the "About" section, including the members' description, was taken from Wikipedia.
+The articles from which the information was taken are:
+
+ https://en.wikipedia.org/wiki/The_Monkees
+ 
+ https://en.wikipedia.org/wiki/Peter_Tork
+ 
+ https://en.wikipedia.org/wiki/Micky_Dolenz
+ 
+ https://en.wikipedia.org/wiki/Michael_Nesmith
+ 
+ https://en.wikipedia.org/wiki/Davy_Jones_(musician)
+
+# media :
+
+ 1) The images used in the "About" section and the video in the "Home" section were taken from the GitHub file given by Code Institute in the project description.
+ 
+ https://github.com/Code-Institute-Org/project-assets
+ 
+ 2) The images used in the gallery were taken from the following links:
+ 
+ https://uproxx.files.wordpress.com/2015/07/the-monkees1.jpg?quality=100&w=650
+ 
+ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-T7mrfRR0bcp6F75FGFDVVWmkbuyNcGGFIi2nW702u2CDznfZ
+ 
+ https://beardedgentlemenmusic.com/wp-content/uploads/2016/06/The-Monkees-2016.jpg
+ 
+ https://ichef.bbci.co.uk/images/ic/960x540/p01bqr6v.jpg
+ 
+ 3) The music on "Our Hits!" was taken from Spotify.
+ 
+#  Acknowledgements:
+
+I received inspiration for this project from: https://themes.3rdwavemedia.com/decibel/bs4/4.0/
+
+
+
+
+
 
 
 
