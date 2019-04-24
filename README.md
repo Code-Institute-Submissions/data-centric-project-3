@@ -41,6 +41,8 @@ Our Next Stop!- this is the last page of the website and it opens in a new page,
 # Features left to implement:
 
 1)There could be a Sign-in/Sign-Up page or a newsletter added for users who would like to stay updated to any new additions on the website.
+
+
 2) On the page that shows concerts schedule,  there could a "Buy tickets" section for those who intend to attend their concerts.
 And this could make it easier to purchase tickets instead of looking for them on other websites.
 
@@ -63,9 +65,13 @@ Not only those but also scenarios such as:
 
 Gallery:
 1) Go to Gallery section.
+
 2) Click on one of the images.
+
 3) The image will be expanded.
+
 4) A close button is provided to be able to close the image if no longer needed.
+
 
 The look of my website on different sized devices and browsers is as follows:
 
