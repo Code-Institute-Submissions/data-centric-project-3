@@ -102,18 +102,15 @@ The social links become vertical/ look as a triangle in smaller screen sizes.
 
 # Deployment:
 
-The process of deploying the files to GitHub was as follows:
-1) Create a new terminal 
-2) add all files using " git add . " and commiting them using "commit -m"
-3) Creating a new repository on GitHub to upload my files.
-4) After that, I have copied the links given on Github page to add the Origin and Push it. 
-5) A login form to my account was shown and i have logged in successfully.
-6) All files were uploaded to the GitHub page. 
-7) Any changes made later on were added similarly onto the existing page.
+The process of deploying the project to GitHub was as follows:
+1) After successfully pushing the files to GitHub,start the deployment. 
+2)I went on settings and to the page section, changed the branch name to Master Branch.
+3) A link was operated and that was the Live URL to my website.
 
-The deployment allows other users to download and view the code made, whereas, the development is a collection of files made by the developer and could only be viewed by those who have the files used saved on their devices.
-This means, deploying the website gives opportunity to others to get the files used on their devices and view different techniques used by the developer.
-The different branches used to deploy the files, were "Login" and "Master" branches. 
+
+Deployment: is making the website Live and accessible by anyone who opens the link provided.
+Development: is using Git commands to upload the file used in the making of the website to GitHub in order to be downloaded or viewed by the assesor and checked.
+
 
 To run my code locally, and ensure that it perfectly works, the user should download the source files used along with the HTML code and run it on their device.
 
