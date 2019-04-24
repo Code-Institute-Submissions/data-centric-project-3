@@ -94,5 +94,23 @@ The alignment of the Hits section in smaller screens overides eachother.
 The social links become vertical/ look as a triangle in smaller screen sizes.
 
 
+# Deployment:
+
+The process of deploying the files to GitHub was as follows:
+1) Create a new terminal 
+2) add all files using " git add . " and commiting them using "commit -m"
+3) Creating a new repository on GitHub to upload my files.
+4) After that, I have copied the links given on Github page to add the Origin and Push it. 
+5) A login form to my account was shown and i have logged in successfully.
+6) All files were uploaded to the GitHub page. 
+7) Any changes made later on were added similarly onto the existing page.
+
+The deployment allows other users to download and view the code made, whereas, the development is a collection of files made by the developer and could only be viewed by those who have the files used saved on their devices.
+This means, deploying the website gives opportunity to others to get the files used on their devices and view different techniques used by the developer.
+The different branches used to deploy the files, were "Login" and "Master" branches. 
+
+
+
+
 
 
