@@ -146,6 +146,12 @@ The articles from which the information was taken are:
  
  3) The music on "Our Hits!" was taken from Spotify.
  
+ https://open.spotify.com/embed/track/3G7tRC24Uh09Hmp1KZ7LQ2
+ 
+ https://open.spotify.com/embed/track/7uEcCGtM1FBBGIhPozhJjv
+ 
+ https://open.spotify.com/embed/track/20wbR4HxNaR4gWjMLQvUp2
+ 
 #  Acknowledgements:
 
 I received inspiration for this project from: https://themes.3rdwavemedia.com/decibel/bs4/4.0/
